@@ -33,7 +33,7 @@
 
 ```yaml
 name: Rishu Raj
-role: Computer Science Student
+role: Btech
 college: NIT Durgapur
 hometown: Sonpur, Bihar
 focus:
@@ -43,7 +43,7 @@ focus:
   - Graphic Design (College Club)
 ```
 
-I'm a Computer Science student at **NIT Durgapur**, originally from Sonpur, Bihar. I spend most of my time strengthening my fundamentals in **Data Structures & Algorithms** using C++ and C, while also building things for the web with **HTML, CSS, and JavaScript**, and exploring mobile development with **React Native**. Alongside coding, I work as a **Graphics Designer** for my college club, where I design visual content for events and campaigns.
+I'm a btech student at **NIT Durgapur**, originally from Sonpur, Bihar. I spend most of my time strengthening my fundamentals in **Data Structures & Algorithms** using C++ and C, while also building things for the web with **HTML, CSS, and JavaScript**, and exploring mobile development with **React Native**. Alongside coding, I work as a **Graphics Designer** for my college club, where I design visual content for events and campaigns.
 
 **Open To:**
 
