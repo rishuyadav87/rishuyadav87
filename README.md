@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Rishu%20Raj&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=btach%20Student%20%7C%20Aspiring%20Developer%20%7C%20Graphics%20Designer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Rishu%20Raj&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.tech%20Student%20%7C%20Aspiring%20Developer%20%7C%20Graphics%20Designer&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
@@ -33,7 +33,7 @@
 
 ```yaml
 name: Rishu Raj
-role: Btech
+role: B.tech
 college: NIT Durgapur
 hometown: Sonpur, Bihar
 focus:
@@ -43,7 +43,7 @@ focus:
   - Graphic Design (College Club)
 ```
 
-I'm a btech student at **NIT Durgapur**, originally from Sonpur, Bihar. I spend most of my time strengthening my fundamentals in **Data Structures & Algorithms** using C++ and C, while also building things for the web with **HTML, CSS, and JavaScript**, and exploring mobile development with **React Native**. Alongside coding, I work as a **Graphics Designer** for my college club, where I design visual content for events and campaigns.
+I'm a B.tech student at **NIT Durgapur**, originally from Sonpur, Bihar. I spend most of my time strengthening my fundamentals in **Data Structures & Algorithms** using C++ and C, while also building things for the web with **HTML, CSS, and JavaScript**, and exploring mobile development with **React Native**. Alongside coding, I work as a **Graphics Designer** for my college club, where I design visual content for events and campaigns.
 
 **Open To:**
 
