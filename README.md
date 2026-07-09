@@ -32,11 +32,11 @@
 ## ⟡ About Me
 
 ```yaml
-name: Rishu Raj
-role: B.tech
-college: NIT Durgapur
-hometown: Sonpur, Bihar
-focus:
+Name: Rishu Raj
+Role: B.tech
+College: NIT Durgapur
+Hometown: Sonpur, Bihar
+Focus:
   - Data Structures & Algorithms (C++ / C)
   - Web Development (HTML, CSS, JavaScript)
   - Mobile App Development (React Native)
